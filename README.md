@@ -14,8 +14,13 @@
 ## Contact
 - Email: zimingy3@outlook.com
 
-![Ziming's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzmyyds&show_icons=true&theme=radical)
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yzmyyds&theme=dark&hide_border=false" width="60%" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzmyyds&layout=compact)
+  <br><br> <!-- 上下间距 -->
 
-![Ziming's Activity Graph](https://activity-graph.herokuapp.com/graph?username=yzmyyds&theme=react-dark)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzmyyds&layout=compact&theme=dark&hide_border=false" width="35%" />
+</div>
+
