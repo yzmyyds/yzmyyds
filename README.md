@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋, I'm Ziming Yan
 
-<!--
-**yzmyyds/yzmyyds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Computer Control and automatic MSc Student @ NTU
+- Electrical Engineering Bacheler's Degree @ ZJU & UIUC
+- Scholarship recipient
 
-Here are some ideas to get you started:
+## Interests
+- Interested in Robotics & Embedded Control
+- VLA application in Robotics
+- Image enhancement with ML
+- Robotic Vision and Machine Vision, SLAM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: zimingy3@outlook.com
+
+![Ziming's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZimingYan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZimingYan&layout=compact)
+
+![Ziming's Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZimingYan&theme=react-dark)
